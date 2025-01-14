@@ -91,24 +91,27 @@ align-items: center;
 }
 .vision{
   display: flex;
-  gap: 50px;
- margin-left: 100px;
+  gap: 100px;
+ margin-left: 200px;
  margin-top: 40px;
 }
 .icon-1{
   background-color: #aac7ff;
   padding: 27px;
   border-radius:15px ;
+  box-shadow:5px 2px 0px 20px #aac7ff  ;
 }
 .icon-2{
   background-color: #C6E4D6;
   padding:30px ;
   border-radius: 15px;
+  box-shadow:5px 2px 0px 20px #C6E4D6;
 }
 .icon-3{
   background-color: #F7EBCF; 
   padding: 30px;
   border-radius: 15px;
+  box-shadow:5px 2px 0px 20px #F7EBCF ;
 }
  .vision-title-1{
   font-size: 20px;
@@ -170,4 +173,19 @@ align-items: center;
   text-align: center; 
   padding: 10px 20px;
   margin-top: 25px;
+ }
+ .dolor{
+  background-color:#a1c3ff;
+  margin-top: 100px;
+  margin-left: 170px;
+  margin-right: 160px;
+  margin-bottom: 30px;
+  border-radius: 15px;
+  background-image: url("../B11A1--assignment-1/assets/quote-bg.png");
+  background-repeat: no-repeat;
+  padding: 30px;
+  margin: ;
+ }
+ .amet{
+  
  }
