@@ -181,7 +181,7 @@ align-items: center;
   margin-right: 160px;
   margin-bottom: 30px;
   border-radius: 15px;
-  background-image: url("../B11A1--assignment-1/assets/quote-bg.png");
+  background-image:  url("../B11A1--assignment-1/assets/quote-bg.png") ;
   background-repeat: no-repeat;
   padding: 30px;
   margin: ;
@@ -189,3 +189,157 @@ align-items: center;
  .amet{
   
  }
+ .body{
+  background-color: #F1F1F3;
+  
+ }
+.News{
+  align-items: center;
+  margin-left:170px ;
+  font-size: 40px;
+  font-weight: bold;
+  color: #0E0E0E;
+
+}
+.aims {
+  margin-left: 170px;
+  margin-right: 160px;
+  font-size: 16px;
+  color: #0E0E0E;
+} 
+.butt{
+ text-align: center;
+}
+.Taka100{
+  font-size: 40px;
+  font-weight: bold;
+  border-radius: 10px;
+  background-color: #FFFFFF;
+  color:#0E0E0E;
+  text-align: center; 
+  padding: 30px;
+  margin-top: 10px;
+  border: none;
+  margin-left: 20px;
+}
+.Tk200{
+  font-size: 40px;
+  font-weight: bold;
+  border-radius: 10px;
+  background-color: #C6E4D6;
+  color:#0E0E0E;
+  text-align: center; 
+  padding: 30px;
+  margin-top: 10px;
+  border: none;
+  margin-left: 20px;
+}
+.tk300{
+  font-size: 40px;
+  font-weight: bold;
+  border-radius: 10px;
+  background-color: #FFFFFF;
+  color:#0E0E0E;
+  text-align: center; 
+  padding: 30px;
+  margin-top: 10px;
+  border: none;
+  margin-left: 20px;
+}
+.tk400{
+  font-size: 40px;
+  font-weight: bold;
+  border-radius: 10px;
+  background-color: #FFFFFF;
+  color:#0E0E0E;
+  text-align: center; 
+  padding: 30px;
+  margin-top: 10px;
+  border: none;
+  margin-left: 20px;
+}
+.Today{
+  text-align: center;
+}
+.growth{
+  margin-left: 170px;
+  margin-right: 160px;
+  font-size: 16px;
+  margin-bottom: 30px;
+  color: #0E0E0E;
+}
+.Donate{
+  font-size: 40px;
+  font-weight: bold;
+  color: #0E0E0E;
+}
+.Amount{
+  background-color:#FFFFFF ;
+  padding: 15px;
+  margin-left: 400px;
+  margin-right: 400px;
+ color: #0E0E0E;
+ margin-top: 30px;
+}
+.Done{
+  text-align: center;
+  margin-top: 20px;
+  font-size: 18px;
+  font-weight: 500;
+  border: none;
+  padding: 15px 25px;
+  background-color: #006A50;
+  border-radius: 10px;
+  color: #FFFFFF;
+}
+.Satellite{
+  background-color:#FFFFFF ;
+  border-radius: 20px;
+  background-image:url("../B11A1--assignment-1/assets/satelite.png") ;
+  background-repeat: no-repeat;
+  margin-left:170px ;
+  margin-right:160px;
+
+ 
+}
+.life{
+  margin-left: 450px;
+  padding:1px;
+ 
+}
+.Launches{
+  font-size: 32px;
+  font-weight: bold;
+  color: #0E0E0E;
+}
+.Time{
+  display: flex;
+  gap: 20px;
+  font-size: 18px;
+  color: #0E0E0E;
+}
+.Read{
+  font-size: 18px;
+  font-weight: 400;
+  color: #FFFFFF;
+  padding: 13px 26px;
+  background-color: #006A50;
+  border-radius: 10px;
+  border: none;
+}
+.Satellit{
+  margin-right:160px;
+  margin-left: 170px;
+  margin-top: 40px;
+  border-radius: 20px;
+  background-image: url("../B11A1--assignment-1/assets/satelite.png");
+  background-position: right top;
+  background-repeat: no-repeat;
+  background-color:#FFFFFF ; 
+  padding: 20px 100px 20px 20px ;
+}
+.until{
+  font-size: 16px;
+  margin-right:250px ;
+
+}
